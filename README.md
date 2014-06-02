@@ -1,3 +1,5 @@
 #Hi
 
-Welcome to my repository. This is a repository for me to try out GIT. Not much should you expect from here.
+Welcome to my repository. This is a repository for me to try out GIT.
+
+However there is a lot left to be done.
