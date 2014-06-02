@@ -1,5 +1,7 @@
 #include <ncurses.h>
 
+/* Adding comments to the new branch*/
+
 int main()
 {
   /* The character reflector*/
